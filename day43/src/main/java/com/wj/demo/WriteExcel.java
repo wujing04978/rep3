@@ -15,6 +15,7 @@ import java.io.IOException;
 public class WriteExcel {
     @Test
     public void fun2() throws IOException {
+		int x1=10;
 
         //如果d盘中有这个文件就要先删除这个文件
 
